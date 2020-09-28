@@ -1,0 +1,7 @@
+15:17:42.894 [main] ERROR java.lang.Class - This is an error log message
+15:17:42.895 [main] ERROR java.lang.Class - This is an error log message
+15:17:42.895 [main] ERROR java.lang.Class - This is an error log message
+15:17:42.895 [main] FATAL java.lang.Class - This is a fatal log message
+15:17:42.896 [main] FATAL java.lang.Class - This is a fatal log message
+15:17:42.896 [main] FATAL java.lang.Class - This is a fatal log message
+15:17:42.896 [main] FATAL java.lang.Class - This is a fatal log message

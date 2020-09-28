@@ -1,0 +1,7 @@
+15:17:42.889 [main] DEBUG java.lang.Class - This is a debug log message
+15:17:42.893 [main] DEBUG java.lang.Class - This is a debug log message
+15:17:42.893 [main] INFO  java.lang.Class - This is a info log message
+15:17:42.893 [main] INFO  java.lang.Class - This is a info log message
+15:17:42.893 [main] INFO  java.lang.Class - This is a info log message
+15:17:42.894 [main] INFO  java.lang.Class - This is a info log message
+15:17:42.894 [main] ERROR java.lang.Class - This is an error log message
