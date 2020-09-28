@@ -27,6 +27,8 @@ public class log4jDemo {
 		log.fatal("This is a fatal log message");
 		log.fatal("This is a fatal log message");
 		log.fatal("This is a fatal log message");
+		
+		System.out.println("This is the demo for github");
 
 	}
 
